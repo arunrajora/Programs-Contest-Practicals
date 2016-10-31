@@ -1,2 +1,2 @@
 # Programs-Contest-Practicals
-from now what ever i code will be here. Mostly in C++
+Sudoku solver written in c++ . It solves a sudoku using bruteforce with few heuristics (like bitwise operators) to improve performance.
