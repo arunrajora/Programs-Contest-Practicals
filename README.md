@@ -1,5 +1,5 @@
 # Programs-Contest-Practicals
-Sudoku solver written in c++ .
+<b><i>Sudoku solver written in c++ .</i></b>
 # 
 > It solves a sudoku puzzle recursively by trying out all possibilities.
 # 
